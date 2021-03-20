@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&family=Hind+Guntur:wght@600&display=swap');
+
+body{
+    text-align: center;
+    background-color: #5CE1E6;
+    color: white;
+    margin: 0px 0px 30px 0px;
+}
+
+section{
+    width: 60%;
+    margin: 0% auto;
+}
+
+h1, h2, h3{
+    font-family: 'Anonymous Pro', monospace;
+    color: black;
+}
+
+p {
+    font-family: 'Hind Guntur', sans-serif;
+    color: ;
+}
+
+.menu {
+    background: white;
+    height: 80px;
+    font-family: 'Hind Guntur', sans-serif;
+    width: 60%; 
+    margin: 0 auto;
+    border: solid 2px black;
+}
+
+.menu a{
+    color: black;
+    text-decoration: underline;
+}
+
+.menu li{
+    display: inline-block;
+    line-height: 1;
+    margin: 0 89px;
+}
